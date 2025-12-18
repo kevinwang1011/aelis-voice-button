@@ -1,36 +1,26 @@
 {
-  "title": "【玖玖巴按鈕】",
-  "description": "就只是個狐仙按鈕網站",
-  "keywords": "VTuber VoiceButton 玖玖巴 孤之界",
-  "url": "https://998-button.konnokai.me",
-  "social_image": "https://i.imgur.com/vOAsBZ3.png",
-  "twitter_user": "@Kon_no_kai",
-  "theme_color": "#f18465",
+  "title": "【梅奧奧按鈕】",
+  "description": "",
+  "keywords": "VTuber VoiceButton 梅奧奧",
+  "url": "",
+  "social_image": "",
+  "twitter_user": "",
+  "theme_color": "#594d8d",
   "footer": {
     "authors": [
       {
-        "name": "孤之界",
-        "link": "https://konnokai.me"
-      },
-      {
-        "name": "紅柿",
-        "link": "https://twitter.com/7Red4"
-      },
-      {
-        "name": "九条夏目",
-        "link": "https://github.com/kujyonatsume"
+        "name": "OUO",
+        "link": "https://x.com/OUO34993952"
       }
     ],
-    "repo_link": "https://github.com/konnokai/998-voice-button",
-    "content": "本站為愛好者作品，和{0}沒有關聯，其餘資訊請查看{1} & {2}",
+    "repo_link": "https://github.com/OUO34993952/aelis_voice_button",
+    "content": "本站為愛好者作品，和{0}沒有關聯，原始碼 {1}, 特別感謝 - 網站模板開發 {2}, {3}, {4} ",
     "content_params": [
-      { "name": "玖玖巴" },
-      { "name": "關於", "link": "/about", "target": "" },
-      {
-        "name": "原始碼",
-        "link": "https://github.com/7Red4/vtuber-button-template",
-        "target": "_blank"
-      }
+      { "name": "預見娛樂及梅奧奧" },
+      { "name": "原始碼", "link": "https://github.com/kevinwang1011/aelis-voice-button", "target": "_blank" },
+      { "name": "孤之界", "link": "https://konnokai.me", "target": "_blank" },
+      { "name": "紅柿", "link": "https://twitter.com/7Red4", "target": "_blank" },
+      { "name": "九条夏目", "link": "https://github.com/kujyonatsume", "target": "_blank" }
     ]
   }
 }
