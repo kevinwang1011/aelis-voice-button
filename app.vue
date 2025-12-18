@@ -6,7 +6,7 @@
       </template>
       <VAppBarTitle>
         <div class="flex items-center">
-          <NuxtLink class="font-bold" to="/">【玖玖巴按鈕】</NuxtLink>
+          <NuxtLink class="font-bold" to="/">【梅奧奧按鈕】</NuxtLink>
         </div>
       </VAppBarTitle>
     </VAppBar>
