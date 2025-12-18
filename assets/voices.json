@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "group_name": "default",
+      "group_description": {
+        "zh": "預設"
+      },
+      "voice_list": [
+        {
+          "name": "f581d478841e9e8194d620a453e429fc",
+          "path": "default/喜歡你.mp3",
+          "description": {
+            "zh": "喜歡你"
+          },
+          "updated_at": 1766038909
+        },
+        {
+          "name": "b57fc3c8c0b1496b08515276aaca9f30",
+          "path": "default/寶貝我愛你.mp3",
+          "description": {
+            "zh": "寶貝我愛你"
+          },
+          "updated_at": 1766039108
+        },
+        {
+          "name": "f75096e8a12de28147f9bc3079c2dea8",
+          "path": "default/臭狗.mp3",
+          "description": {
+            "zh": "臭狗"
+          },
+          "updated_at": 1765950659
+        }
+      ]
+    }
+  ]
+}
