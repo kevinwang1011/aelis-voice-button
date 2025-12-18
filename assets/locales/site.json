@@ -14,7 +14,7 @@
       }
     ],
     "repo_link": "https://github.com/OUO34993952/aelis_voice_button",
-    "content": "本站為愛好者作品，和{0}沒有關聯，原始碼 {1}, 特別感謝 - 網站模板開發 {2}, {3}, {4} ",
+    "content": "本站為愛好者作品，和{0}沒有關聯, {1}, 特別感謝 - 網站模板開發 {2}, {3}, {4} ",
     "content_params": [
       { "name": "預見娛樂及梅奧奧" },
       { "name": "原始碼", "link": "https://github.com/kevinwang1011/aelis-voice-button", "target": "_blank" },
