@@ -62,10 +62,24 @@ export const links: T_Link[][] = [
   [
     {
       icon: {
-        emoji: '♦️'
+        emoji: '♥️'
       },
-      title: '佔位 - 梅奧奧',
-      url: ''
+      title: '佔位 - 珮蕾音效版 - 目前開放投稿',
+      url: 'https://forms.gle/aYvQLRh2uDGg1hoy7'
+    },
+    {
+      icon: {
+        emoji: '♠️'
+      },
+      title: '佔位 - 睏睏幽昵音效版 - 目前開放投稿',
+      url: 'https://forms.gle/bNr916Grkz96YEiG9'
+    },
+    {
+      icon: {
+        emoji: '♣️'
+      },
+      title: '佔位 - 茶帽瑪緹音效版 - 目前開放投稿',
+      url: 'https://forms.gle/X8Kpik5gC44yqmn16'
     },
   ]
 ];
