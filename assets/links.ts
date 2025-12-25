@@ -64,21 +64,21 @@ export const links: T_Link[][] = [
       icon: {
         emoji: '♥️'
       },
-      title: '珮蕾音效版-開放投稿',
+      title: '珮蕾音效板-投稿中',
       url: 'https://forms.gle/aYvQLRh2uDGg1hoy7'
     },
     {
       icon: {
         emoji: '♠️'
       },
-      title: '幽昵音效版-開放投稿',
+      title: '幽昵音效板-投稿中',
       url: 'https://forms.gle/bNr916Grkz96YEiG9'
     },
     {
       icon: {
         emoji: '♣️'
       },
-      title: '帽帽音效版-開放投稿',
+      title: '帽帽音效板-投稿中',
       url: 'https://forms.gle/X8Kpik5gC44yqmn16'
     },
   ]
