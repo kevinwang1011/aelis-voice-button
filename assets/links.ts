@@ -69,14 +69,14 @@ export const links: T_Link[][] = [
     },
     {
       icon: {
-        emoji: '♠️'
+        emoji: '♣️'
       },
       title: '幽昵音效板-投稿中',
       url: 'https://forms.gle/bNr916Grkz96YEiG9'
     },
     {
       icon: {
-        emoji: '♣️'
+        emoji: '♠️'
       },
       title: '帽帽音效板-投稿中',
       url: 'https://forms.gle/X8Kpik5gC44yqmn16'
