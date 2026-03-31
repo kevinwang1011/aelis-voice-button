@@ -232,7 +232,9 @@ import sounds from '~/assets/voices.json';
 import dayjs from 'dayjs';
 
 const route = useRoute();
-const goTo = useGoTo();
+const goTo = import.meta.client
+  ? useGoTo()
+  : ((..._args: unknown[]) => {}) as ReturnType<typeof useGoTo>;
 
 const isIn7Days = (unixtimestamp: number) => {
   return dayjs().diff(dayjs.unix(unixtimestamp), 'day') < 7;
